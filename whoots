@@ -1,24 +1,65 @@
 <html>
 
-	<body>
-		<h1 style="background-color:Gold;font-family:Comic Sans MS; text-align:center;">Mr <b>Peanutbutter's</b> Fansite</h1>
+</style>
+</head>
+<body>
 
-	<body style="background-color:Yellow;">
+
+<div style="padding:20px;margin-top:30px;height:1500px;">
+
+<style type="text/css">* {cursor: url(http://ani.cursors-4u.net/nature/nat-11/nat1041.ani), url(http://ani.cursors-4u.net/nature/nat-11/nat1036.png), auto !important;}</style><a href="http://www.cursors-4u.com/cursor/2013/02/17/happy-cute-box-dog.html" target="_blank" title="Happy Cute Box Dog"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Happy Cute Box Dog" style="position:absolute; top: 0px; right: 0px;" /></a>
+
+	<link rel="stylesheet" href="css.css"/>
+	
 	<body>
-		<h1 style= "color:DeepSkyBlue;font-family:verdana;"">WHY DID I PICK UP WEB DEV O WHY</h1>
+		<h1 style="background-color:Gold;font-family:Comic Sans MS; text-align:center;" >Mr <b>Peanutbutter's</b> Fansite</h1>
+
+	<body>
+
+		<h1 style= "color:DeepSkyBlue;font-family:verdana;">WHY DID I PICK UP WEB DEV O WHY</h1>
 			<p style="font-size:300%;background-color:DodgerBlue;font-family:Brush Script MT;">My dream is to one day spread the word of Mr PB all over the cybersphere.<br> Definitely not anything else that's illicit.</p>
 
-		<h1 "style ="font-family:Comic Sans MS;"><i>Bangable</i> PERSON</h1>
+		<h1 style ="font-family:Comic Sans MS;"><i>Bangable</i> PERSON</h1>
+	
 			<p style="font-size:160%;background-color:Gold;color:Blue;font-family:Impact;">Mr Peanutbutter-<br> Isn't he a dashing young man</p>
 
-		<img src="ZtKUZ4q.jpg" alt="Put This In Me" style="width:100px;height:300px;">
-		<img src="https://pre00.deviantart.net/04f4/th/pre/i/2015/297/9/1/mr__peanutbutter_by_cyberworm360-d9e6r1f.jpg" alt="My Kind of PB Sandwich" style="width:250px;height:300px;">
-		<img src="https://media.giphy.com/media/xThuW6sWCGbpZMpX7a/giphy.gif" alt="Put This In Me" style="width:500px;height:300px;">
-		<img src="https://www.organicfacts.net/wp-content/uploads/peanutbutter1.jpg" alt="Put This On Me" style="width:350px;height:300px;">
-		
+		<img src="https://i.imgur.com/45BQxlW.jpg" alt="Put This In Me" style="width:300px;height:270px;">
+		<img src="https://www.organicfacts.net/wp-content/uploads/peanutbutter1.jpg" alt="Put This On Me" style="width:320px;height:270px;">
+		<img src="https://media.giphy.com/media/xThuW6sWCGbpZMpX7a/giphy.gif" alt="Put This In Me" style="width:400px;height:270px;">
+		<img src="https://pre00.deviantart.net/04f4/th/pre/i/2015/297/9/1/mr__peanutbutter_by_cyberworm360-d9e6r1f.jpg" alt="My Kind of PB Sandwich" style="width:220px;height:270px;">
 
 		<h1 style ="font-family:Courier New;">Sites I Wished Weren't Blocked on School Wifi</h1>
 			<p style="font-size:270%;background-color:Cyan;font-family:Comic Sans MS;">I don't know any sites that are blocked because I'm a good kid.</p>
 
-	
+
+		<a style="font-family:Comic Sans MS;font-size:200% " href="https://www.youtube.com/watch?v=IxZ5xcN2-64">Doggie-Doggie-what-what??</a>
+			<style>
+			a:link {
+			    color: green; 
+			    background-color: transparent; 
+			    text-decoration: none;
+			}
+
+			a:visited {
+			    color: pink;
+			    background-color: transparent;
+			    text-decoration: none;
+			}
+
+			a:hover {
+			    color: red;
+			    background-color: transparent;
+			    text-decoration: underline;
+			}
+
+			a:active {
+			    color: yellow;
+			    background-color: transparent;
+			    text-decoration: underline;
+			}
+			
+			<body> 
+			
+}
+	 
 </html>

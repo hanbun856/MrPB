@@ -1,0 +1,88 @@
+
+.crosshair {cursor: crosshair;}
+body {
+    background-image: url("https://images3.alphacoders.com/552/552955.jpg");
+}
+
+
+}
+
+
+p {
+    border-top-style: dotted;
+    border-right-style: double;
+    border-bottom-style: dotted;
+    border-left-style: double;
+
+    border-radius: 10px;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+    }
+
+p {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+h1 {
+    border: 1px solid DarkOrange;
+    outline-style: solid;
+    outline-color: DarkOrange;
+    outline-width: thick;
+}
+
+
+h1 {
+    
+  position: relative;
+    -webkit-animation: myfirst 5s infinite; /* Safari 4.0 - 8.0 */
+    -webkit-animation-direction: alternate; /* Safari 4.0 - 8.0 */
+    animation: myfirst 5s infinite;
+    animation-direction: alternate;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes myfirst {
+    0%   {background: Gold; left: 0px; top: 0px;}
+    25%  {background: Khaki; left: 200px; top: 0px;}
+    50%  {background: Gold; left: 200px; top: 200px;}
+    75%  {background: yellow; left: 0px; top: 200px;}
+    100% {background: Khaki; left: 0px; top: 0px;}
+}
+
+@keyframes myfirst {
+    0%   {background: yellow; left: 0px; top: 0px;}
+    25%  {background: Gold; left: 200px; top: 0px;}
+    50%  {background: Khaki; left: 200px; top: 200px;}
+    75%  {background: Gold; left: 0px; top: 200px;}
+    100% {background: Khaki; left: 0px; top: 0px;}
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
